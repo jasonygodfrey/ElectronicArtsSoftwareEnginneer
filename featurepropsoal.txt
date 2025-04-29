@@ -1,0 +1,21 @@
+Structure of a Feature Proposal
+
+At the end of the day, it’s far more important to articulate your idea well than to follow a strict document structure. That being said, most feature proposals at EA contain the following information:
+
+Title: An impactful name for your feature.
+Overview: A brief description of your feature.
+Value statement: An explanation of why it would be a good idea to add your feature to the game.
+Solution: A description of how your feature would integrate with existing game mechanics. Oftentimes good features build on existing systems in some way, though they certainly don’t have to.
+Evaluation statement: Provides a look at the pros and cons of adding your feature to the game. Includes a description of the possible benefits and risks, and addresses potential counterarguments to your proposal.
+
+
+Title: Purple kick ball addon FOR FOOTBALL GAME
+Overview: customer can buy the option to change or upgrade their kick animation, and perhaps upgrades the kick in game.
+Value statement: fun player customization features while also being profitable
+Solution: Buyable option in marketplace
+Evaluation: good idea
+
+
+
+https://refactoring.guru/design-patterns
+https://en.wikipedia.org/wiki/SOLID
