@@ -19,3 +19,48 @@ Evaluation: good idea
 
 https://refactoring.guru/design-patterns
 https://en.wikipedia.org/wiki/SOLID
+
+
+In this task, you will be taking the middle approach - defining several classes in a single header file, without including their implementations.
+
+Your Class Definition
+It’s time to create definitions for the classes on your ticket. Once you have the class definitions complete, you can worry about your implementation. You will, of course, need to finish both before you can submit your ticket. But for now, you’ll be drafting up a header file.
+
+Take some time to review your class diagram from the previous task, paying special attention to the relationships between each one. Create a header file with a class definition for each object, but don’t worry about the implementations. Each class should include all relevant instance variables, and a stub for each one of its methods.
+
+When building out each game object, consider the following:
+
+How would you expect to interact with this object? What operations should the class support, and what access modifiers (public, private, or protected) should they use?
+What variables will your game object need for data storage, and what access modifiers should they use?
+Do any of your variables require getter or setter functions?
+When you are finished writing out your class definitions, submit your header file below. This task should take you approximately one hour to complete.
+
+
+
+Task 4: Live Bugfix
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+The Yellow Ticket
+You take a look at the yellow ticket - this is what it says:
+
+The current version of the inventory system does not fully implement item removal. An object removed from the inventory is left in the item list with a quantity of 0. Implement a way to fully remove an item from the inventory when its quantity reaches 0. While reviewing the code, consider whether there are data structures more appropriate for item storage, or if there is code that can be streamlined and condensed.
+
+ 
